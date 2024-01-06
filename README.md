@@ -1,5 +1,5 @@
 # Fossil-Fighters-E-In-J
-This rather unnecessary little repo allowd you to transplant FF1 English text into the Japanese version. It also transplants the fonts, making for an awkward name entry where
+This rather unnecessary little repo allows you to transplant FF1 English text into the Japanese version. It also transplants the fonts, making for an awkward name entry where
 you have to select Japanese characters in the first screen in the same position as the English letters on the third.
 
 NOTE 1: This requires *two* ROMs, the American one and the Japanese one. They need to be named america.nds and japan.nds, respectively, and *must* be in the same folder as lang.exe.
